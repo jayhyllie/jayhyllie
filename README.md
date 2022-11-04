@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayhyllie
-- 👀 I’m interested in Front-End Development
-- 💞️ I’m looking to collaborate on fun projects
+- 👀 Front-End Development
+- 💞️ Let's collaborate
 
 <!---
 jayhyllie/jayhyllie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
