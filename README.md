@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Joakim Sundman
-
+<img src="https://i0.wp.com/blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png?ssl=1" width="100" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="100" height="50"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R1poIk0x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://raw.githubusercontent.com/serverless/assets/master/Icon/Framework/PNG/Serverless_Framework-icon01.png" width="100" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="100" height="50">
 ## 🚀 About Me
 
 - 💻 I'm proficient in JavaScript, React, Node.js, SCSS and more.
