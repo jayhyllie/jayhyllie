@@ -18,7 +18,7 @@ Feel free to reach out to me if you have any questions, want to collaborate on a
 
 ## ⭐ My GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayhyllie&show_icons=true&theme=dark)
 
 Thank you for visiting my profile, and I look forward to connecting with you and exploring the world of coding together! 🚀
 
