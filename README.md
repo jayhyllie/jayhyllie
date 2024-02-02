@@ -1,6 +1,4 @@
-# 👋 Hello, I'm [Joakim Sundman]
-
-Welcome to my GitHub profile! I'm a passionate software developer with a love for coding and problem-solving. I'm always eager to learn and explore new technologies, and I'm committed to writing clean and efficient code.
+# 👋 Hi, I'm Joakim Sundman
 
 ## 🚀 About Me
 
