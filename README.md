@@ -14,7 +14,7 @@ I'm currently focusing on projects related to web development, including buildin
 
 ## 📫 Let's Connect
 
-Feel free to reach out to me if you have any questions, want to collaborate on a project, or just want to chat about technology and coding. You can find me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/joakim-sundman-00556b190/)).
+Feel free to reach out to me if you have any questions, want to collaborate on a project, or just want to chat about technology and coding. You can find me on [LinkedIn](https://www.linkedin.com/in/joakim-sundman-00556b190/).
 
 ## ⭐ My GitHub Stats
 
